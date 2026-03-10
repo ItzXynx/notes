@@ -33,3 +33,4 @@ if __name__ == "__main__":
             print(f"{n['id']}. [{n['date']}] {n['text']}")
         if not notes:
             print("no notes")
+# updated
