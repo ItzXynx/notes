@@ -8,3 +8,4 @@ python main.py list
 python main.py search push
 python main.py del 1
 ```
+
